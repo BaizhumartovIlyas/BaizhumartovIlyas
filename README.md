@@ -30,3 +30,7 @@ My name is Ilyas, and I'm a Manual QA Engineer.
     </a>
   </div>
 
+###Check My CV [here](https://drive.google.com/file/d/1WaP5yF7VE2mYan5gNVzUyl1kQ0lH3Khy/view?usp=sharing)
+---
+
+
