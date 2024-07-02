@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-<!--
-**BaizhumartovIlyas/BaizhumartovIlyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Let me introduce myself
+---
+My name is Ilyas and I am an Manual QA Engineer. 
+✨Here I want to share my testing portfolio: items gained during some of my studies and pet-projects ✨ 
+
+### Here are a few brief facts:
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
